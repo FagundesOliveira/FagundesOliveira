@@ -9,7 +9,7 @@
 </div>
 
   ## Tecnologias que eu utilizo no meu dia
-
+  <div>
   <a href="https://github.com/FagundesOliveira">
   <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
